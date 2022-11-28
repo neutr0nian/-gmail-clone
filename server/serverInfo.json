@@ -1,4 +1,3 @@
-//I have used gmail as a service, you can use any other service
 {
   "smtp": {
     "service": "gmail",
