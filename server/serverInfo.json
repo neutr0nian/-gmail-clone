@@ -1,13 +1,14 @@
+//I have used gmail as a service, you can use any other service
 {
   "smtp": {
     "service": "gmail",
     "host": "smtp.gmail.com",
     "port": 999,
-    "auth": { "user": "chavanpratik.pc@gmail.com", "pass": "inenjbppirffjyam" }
+    "auth": { "user": "your_email_address", "pass": "your_password" }
   },
   "imap": {
     "host": "imap.gmail.com",
     "port": 993,
-    "auth": { "user": "chavanpratik.pc@gmail.com", "pass": "inenjbppirffjyam" }
+    "auth": { "user": "your_email_address", "pass": "your_password" }
   }
 }
