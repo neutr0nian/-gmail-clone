@@ -1,0 +1,13 @@
+{
+  "smtp": {
+    "service": "gmail",
+    "host": "smtp.gmail.com",
+    "port": 999,
+    "auth": { "user": "chavanpratik.pc@gmail.com", "pass": "inenjbppirffjyam" }
+  },
+  "imap": {
+    "host": "imap.gmail.com",
+    "port": 993,
+    "auth": { "user": "chavanpratik.pc@gmail.com", "pass": "inenjbppirffjyam" }
+  }
+}
